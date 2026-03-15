@@ -199,7 +199,6 @@ Skills:
 * Deploy on **cloud server**
 
 ---
-# Us
 
 # 📜 License
 
